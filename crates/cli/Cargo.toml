@@ -1,0 +1,7 @@
+[package]
+name = "darask-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+darask-core = { path = "../core" }

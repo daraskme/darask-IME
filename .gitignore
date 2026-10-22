@@ -1,0 +1,9 @@
+/target
+/data/build
+/data/src/JMdict_e
+/data/src/JMdict_e.gz
+/data/src/cmudict.dict
+/data/src/count_1w.txt
+/data/src/romanji-hiragana.tsv
+/result
+/result-*

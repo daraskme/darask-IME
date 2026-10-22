@@ -1,0 +1,69 @@
+アプリ	app	application
+ネット	net	internet
+メアド	email	address
+ツイート	tweet
+ブラウザ	browser
+サーバ	server
+サーバー	server
+ログイン	login	log in
+ログアウト	logout
+パスワード	password
+ユーザー	user
+ユーザ	user
+アカウント	account
+ダウンロード	download
+アップロード	upload
+インストール	install
+アップデート	update
+アップグレード	upgrade
+リポジトリ	repository	repo
+コミット	commit
+プッシュ	push
+プル	pull
+プルリクエスト	pull request	PR
+ブランチ	branch
+マージ	merge
+リベース	rebase
+デバッグ	debug
+ビルド	build
+デプロイ	deploy
+リリース	release
+バグ	bug
+エラー	error
+ログ	log
+コンフィグ	config
+コンフィグレーション	configuration
+ディレクトリ	directory
+フォルダ	folder
+ファイル	file
+エクステンション	extension
+プラグイン	plugin
+パッケージ	package
+ライブラリ	library
+フレームワーク	framework
+データベース	database	DB
+インターフェース	interface
+インタフェース	interface
+エディタ	editor
+ターミナル	terminal
+コマンド	command
+シェル	shell
+スクリプト	script
+ドキュメント	document	docs
+クラス	class
+メソッド	method
+ファンクション	function
+オブジェクト	object
+パラメータ	parameter
+オプション	option
+デフォルト	default
+サポート	support
+パフォーマンス	performance
+キャッシュ	cache
+トークン	token
+セッション	session
+リクエスト	request
+レスポンス	response
+エンドポイント	endpoint
+カフェ	cafe
+コーヒー	coffee
